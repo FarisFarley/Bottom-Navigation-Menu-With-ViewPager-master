@@ -1,0 +1,4 @@
+#Tue Nov 23 23:06:01 SGT 2021
+base.0=C\:\\Users\\Faris\\Desktop\\Bottom-Navigation-Menu-With-ViewPager-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

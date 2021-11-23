@@ -1,0 +1,11 @@
+com/wtsa/btm/ui/dashboard/DashboardFragment.java
+ com.wtsa.btm.ui.dashboard.DashboardFragment
+com/wtsa/btm/BuildConfig.java
+ com.wtsa.btm.BuildConfig
+com/wtsa/btm/ui/home/HomeFragment.java
+ com.wtsa.btm.ui.home.HomeFragment
+com/wtsa/btm/MainActivity.java
+ com.wtsa.btm.MainActivity
+ com.wtsa.btm.MainActivity$1
+ com.wtsa.btm.MainActivity$2
+ com.wtsa.btm.MainActivity$ViewPagerAdapter
